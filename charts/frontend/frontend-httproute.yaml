@@ -5,7 +5,7 @@ metadata:
   namespace: frontend
 spec:
   parentRefs:
-  - name: frontend-gatewayi
+  - name: frontend-gateway
   hostnames:
   - "frontend.local"
   rules:
